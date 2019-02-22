@@ -1,0 +1,27 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State>
+                <id />
+              </State>
+              <State>
+                <id>Cucumber</id>
+              </State>
+              <State>
+                <id>Cucumber Java</id>
+              </State>
+            </expanded-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="Errors" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
